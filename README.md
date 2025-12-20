@@ -1,4 +1,4 @@
-# Connecter  
+# 此仓库归档，所有内容已合并至[RWPteam/connssh](https://github.com/rwpteam/connssh)
 A lightweight & cross-platform SSH/SFTP client built with Flutter.
 一个基于Flutter的，轻量、跨平台的SSH/SFTP工具
 
